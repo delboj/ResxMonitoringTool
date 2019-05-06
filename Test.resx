@@ -120,4 +120,7 @@
   <data name="Button_OK" xml:space="preserve">
     <value>Taster_OK</value>
   </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Odustani</value>
+  </data>
 </root>
